@@ -1,0 +1,5 @@
+PostNL Postkantoor
+Nova Zemblastraat 565, 1013 RJ Amsterdam
+adresID INT PK NN UQ UN omdat het de ID is en dat moet unique zijn en niet leeg i guess.
+Ik heb de collumns adresID, straat, huisnummer, postcode en plaats gemaakt.
+Ik heb voor alle behalve huisnummer, VARCHAR gedaan. Voor huisnummer heb ik decimaal gedaan omdat huisnummer alleen cijfers zijn. Het kan ook een toevoeging hebben voor mensen in bijvoorbeeld een flat maar ik hou het even simpel want ik snap het niet heel goed nog.
