@@ -1,0 +1,24 @@
+PROG-M5 2.3 Rechten onderzoek
+
+De rechten die ik heb gekozen:
+
+- CREATE
+- ALTER
+
+Wat doen de rechten:
+
+De ALTER recht geeft de user toestemming om dingen zoals tabellen te veranderen in de database. Dus basically de structuur. Je kan zo kolommen toevoegen of verwijderen in een tabel.
+
+De CREATE recht geeft de user toestemming om nieuwe databases en tabellen enzo te maken. Dus met CREATE kan je nieuwe database dingen maken, simpel gezegd.
+
+Wanneer zou je deze rechten nodig kunnen hebben?
+
+Je zou ALTER en CREATE allebei nodig kunnen hebben als je werkt of meewerkt aan een project, dus bijvoorbeeld bouwen van een website waarbij een database nodig is. Met ALTER kan je meer dan met CREATE dus ik ga ervanuit dat je de CREATE recht krijgt als je meewerkt maar niet yk een van de main mensen bent. Wat ik daarmee bedoel is dat dit gewoon iemand kan zijn die meewerkt maar niet zomaar dingen kan verwijderen, dus dit is veiliger om te gebruiken op die manier. Bijvoorbeeld als je iemand in dienst neemt om mee te werken.
+ALTER recht zou je nodig kunnen hebben als je een van de main mensen bent die aan het project werkt. Ik hoop dat ik het zo goed heb uitgelegd. In me hoofd is het heel logisch maar het uittypen gaat iets moeilijker.
+Even kort gezegd, dus ik zou iemand CREATE geven als ik wil dat die persoon bijvoorbeeld nieuwe tables voor mijn project maakt. Deze persoon kan als het goed is niet bij de oude of het wijzigen dus ik zou dit wel vertrouwen. En ik zou iemand ALTER geven als het echt mijn teamgenoot, als in echt iemand met wie ik het project samen doe. Ik kan het echt niet beter uitleggen sorry.
+
+Wat zou een hacker met deze rechten kunnen?
+
+Een hacker kan met ALTER eigenlijk mijn databases en tables kunnen wijzigen en dat is natuurlijk heel gevaarlijk. De hacker kan het ook stelen op deze manier. Dit wil je echt niet overkomen.
+Een hacker kan met CREATE nieuwe tables en databases maken. Dit is natuurlijk ook niet nice maar tbh vind ik dit iets minder erg dan ALTER maar dit kan ook wel echt gevaarlijk zijn vooral als je een serieus bedrijf bent en iemand met je data zit te knoeien door nieuwe databases of tables te maken enzo.
+
